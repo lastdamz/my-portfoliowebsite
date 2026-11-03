@@ -18,7 +18,7 @@ import clausemaxGallery3 from '../assets/portfolio/clausemax-platform/gallery-3.
 import clausemaxGallery4 from '../assets/portfolio/clausemax-platform/gallery-4.jpg'
 import orytheCover from '../assets/portfolio/orythe-scent/orythecover.jpg'
 import orythe1 from '../assets/portfolio/orythe-scent/orythe1.png'
-import orytheFlyer1 from '../assets/portfolio/orythe-scent/orytheflyer1.jpg'
+import orytheFlyer1 from '../assets/portfolio/orythe-scent/orythe-flyer-1.jpg'
 import orythe2 from '../assets/portfolio/orythe-scent/orythe2.png'
 import orytheSocial from '../assets/portfolio/orythe-scent/orythe-social.jpg'
 import orythe3 from '../assets/portfolio/orythe-scent/orythe8.jpg'
