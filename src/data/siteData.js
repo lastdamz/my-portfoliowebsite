@@ -422,7 +422,7 @@ export const portfolioItems = [
     client: 'Event flyers',
     category: 'Flyer Design',
     year: '2024-2026',
-    description: 'A five-part flyer series for a monthly business consultancy company.',
+    description: 'A five-part event flyer series for different events nation wide.',
     brief: 'Each flyer needed to feel part of the same series while promoting a different headline act — solved with one flexible layout system and a rotating color treatment.',
     image: eventFlyerCover,
     gallery: [eventFlyer1, eventFlyer2, eventFlyer3, eventFlyer4],
