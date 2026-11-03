@@ -61,6 +61,10 @@ import balticGallery4 from '../assets/portfolio/balticSea/baltic2.jpg'
 import balticGallery5 from '../assets/portfolio/balticSea/baltic3.jpg'
 import balticGallery6 from '../assets/portfolio/balticSea/baltic4.jpg'
 import eventFlyerCover from '../assets/portfolio/events/eventscover.jpg'
+import eventFlyer1 from '../assets/portfolio/events/club1.jpg'
+import eventFlyer2 from '../assets/portfolio/events/club2.png'
+import eventFlyer3 from '../assets/portfolio/events/club3.jpg'
+import eventFlyer4 from '../assets/portfolio/events/club4.jpg'
 
 
 
