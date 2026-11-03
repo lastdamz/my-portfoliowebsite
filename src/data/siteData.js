@@ -60,6 +60,7 @@ import balticGallery3 from '../assets/portfolio/balticSea/baltic1.jpg'
 import balticGallery4 from '../assets/portfolio/balticSea/baltic2.jpg'
 import balticGallery5 from '../assets/portfolio/balticSea/baltic3.jpg'
 import balticGallery6 from '../assets/portfolio/balticSea/baltic4.jpg'
+import eventFlyerCover from '../assets/portfolio/events/eventscover.jpg'
 
 
 
@@ -405,11 +406,24 @@ export const portfolioItems = [
     client: 'Clausemax Platform',
     category: 'Flyer Design',
     year: '2024-2026',
-    description: 'A five-part flyer series for a monthly nightlife event.',
+    description: 'A five-part flyer series for a monthly business consultancy company.',
     brief: 'Each flyer needed to feel part of the same series while promoting a different headline act — solved with one flexible layout system and a rotating color treatment.',
     image: clausemaxCover,
     gallery: [clausemaxGallery1, clausemaxGallery2, clausemaxGallery3, clausemaxGallery4],
   },
+
+  {
+    id: 'event-flyer',
+    title: 'Event Flyer Series',
+    client: 'Event flyers',
+    category: 'Flyer Design',
+    year: '2024-2026',
+    description: 'A five-part flyer series for a monthly business consultancy company.',
+    brief: 'Each flyer needed to feel part of the same series while promoting a different headline act — solved with one flexible layout system and a rotating color treatment.',
+    image: eventFlyerCover,
+    gallery: [eventFlyer1, eventFlyer2, eventFlyer3, eventFlyer4],
+  },
+
   {
     id: 'metro-realty-banner',
     title: 'Metro Realty Storefront Banner',
